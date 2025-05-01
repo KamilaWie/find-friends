@@ -5,3 +5,7 @@ pycaret.clustering
 plotly.express
 dotenv 
 qdrant_client 
+dotenv_values
+QdrantClient
+load_model
+predict_model
